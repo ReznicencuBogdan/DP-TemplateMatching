@@ -1,0 +1,3 @@
+/home/laboratory/Desktop/CodSursa/proiect/date/criptografie/encrypted_version.bmp
+/home/laboratory/Desktop/CodSursa/proiect/date/criptografie/decrypted_version.bmp
+/home/laboratory/Desktop/CodSursa/proiect/date/criptografie/secret_key.txt

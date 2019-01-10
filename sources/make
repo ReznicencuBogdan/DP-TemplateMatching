@@ -1,0 +1,13 @@
+#!/bin/bash
+echo "[compiler] building file sources !"
+
+gcc message.c algorithms.c geometrics.c bitmap.c vector.c ocrdetect.c main.c -o main -lm
+
+echo "[compiler] file built succesfully!"
+
+echo "[compiler] executing file!"
+echo " "
+
+./main
+
+echo "[compiler] file executed!"
